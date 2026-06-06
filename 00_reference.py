@@ -276,10 +276,28 @@
 
 
 # ============================================================
-# UPCOMING SECTIONS (to be added as you learn)
+# SECTION 14 - DICTIONARIES
 # ============================================================
 
-# SECTION 14 — DICTIONARIES          (03_dictionaries.py)
+# Creation          dict = {"key": value}
+# Access            dict["key"]
+# Add               dict["new_key"] = value
+# Update            dict["existing_key"] = new_value
+# Delete            del dict["key"]
+# Safe delete       dict.pop("key")          → returns value
+# All keys          dict.keys()
+# All values        dict.values()
+# All pairs         dict.items()
+# Key exists        "key" in dict            → True/False
+# Length            len(dict)
+# Nested access     dict["outer"]["inner"]
+# Loop              for key, value in dict.items()
+
+# ============================================================
+# UPCOMING SECTIONS (TO BE ADDED AFTER EACH TOPIC)
+# ============================================================
+
+
 # SECTION 15 — FUNCTIONS             (04_functions.py)
 # SECTION 16 — ERROR HANDLING        (05_error_handling.py)
 # SECTION 17 — FILE HANDLING         (06_file_handling.py)
