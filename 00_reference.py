@@ -297,7 +297,6 @@
 # UPCOMING SECTIONS (TO BE ADDED AFTER EACH TOPIC)
 # ============================================================
 
-
 # SECTION 15 — FUNCTIONS             (04_functions.py)
 # SECTION 16 — ERROR HANDLING        (05_error_handling.py)
 # SECTION 17 — FILE HANDLING         (06_file_handling.py)
