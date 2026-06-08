@@ -294,6 +294,29 @@
 # Loop              for key, value in dict.items()
 
 # ============================================================
+# SECTION 14 — FUNCTIONS
+# ============================================================
+
+# Basic function         def name(params): return value
+# Default parameter      def name(param="default"):
+# Multiple return        return a, b, c → a, b, c = func()
+# Lambda                 lambda param: expression
+# *args                  collects positional args → tuple
+# **kwargs               collects keyword args → dict
+# Local variable         defined inside function, dies after
+# Global variable        defined outside, lives everywhere
+# global keyword         use inside function to modify global var
+
+# When to use lambda vs def:
+# lambda → simple, one-line, used once, passed as argument
+# def    → complex, multi-line, reused multiple times
+
+# *args vs **kwargs:
+# *args   → unknown number of values      add(1, 2, 3)
+# **kwargs → unknown number of key=value  info(name="Dhoni", age=42)
+
+
+# ============================================================
 # UPCOMING SECTIONS (TO BE ADDED AFTER EACH TOPIC)
 # ============================================================
 
