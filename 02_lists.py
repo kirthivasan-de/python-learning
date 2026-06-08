@@ -1,5 +1,5 @@
 # ============================================================
-# SECTION 5 — LISTS
+# SECTION 1 — LISTS
 # ============================================================
 
 players = ["Dhoni", "Kohli", "Jadeja", "Rohit", "Bumrah"]
@@ -74,7 +74,7 @@ for index, player in enumerate(players):
     print(f"Player {index + 1}: {player}")
 
 # ============================================================
-# SECTION 6 — LIST COMPREHENSION
+# SECTION 2 — LIST COMPREHENSION
 # ============================================================
 
 players = ["Dhoni", "Kohli", "Jadeja", "Rohit", "Bumrah"]
@@ -102,7 +102,7 @@ print(upper_long)
 # .title()      → Every Word Capitalized (e.g. "virat kohli" → "Virat Kohli")
 
 # ============================================================
-# SECTION 7 — EXERCISES (solved)
+# SECTION 3 — EXERCISES (solved)
 # ============================================================
 
 # Exercise 1 — filter scores above 70
